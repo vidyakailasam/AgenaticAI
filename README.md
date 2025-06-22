@@ -1,4 +1,4 @@
-# AgenaticAI
+# AgenticAI
 
 This is an AI Research Assistant that uses an agentic approach to conduct research automatically. The project leverages LangChain's agent framework to create an intelligent system that can analyze research queries, strategically select appropriate tools, and execute multi-step research workflows without manual intervention.
 
